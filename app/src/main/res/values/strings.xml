@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">找主页</string>
+    <string name="accessibility_service_name">窗口变化监听</string>
+    <string name="accessibility_service_description">作为一个开发人员，N多种原因导致你想知道某个App的某个页面的全称是什么，以此来辅助你解决一些问题。不多解释，你明白</string>
+</resources>
